@@ -1,0 +1,28 @@
+.container {
+    margin-top: 50px;
+    }
+    
+    .card {
+    font-family: 'Open Sans', sans-serif;
+    background-color: gainsboro;
+    }
+    
+    .card-title {
+    font-size: 40px;
+    
+    }
+    
+    #generateButton {
+    font-size: 24px;
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    
+}
+    
+    #resetButton {
+    font-size: 24px;
+    padding: 10px 20px;
+    background-color: red;
+    color: white;
+    }
